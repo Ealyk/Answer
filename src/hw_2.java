@@ -5,7 +5,7 @@ public class hw_2 {
                 i= --i;
             }
             if(i>2 & i%(i-1)==0){
-
+            System.out.println(i);
             }
             }
         }
